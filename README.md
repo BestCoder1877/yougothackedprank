@@ -1,2 +1,2 @@
-# yougothackedprank
-A prank where someone thinks they got hacked
+# You Got Hacked!
+Trick a windows user into getting hacked
