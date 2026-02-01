@@ -1,5 +1,5 @@
 # You Got Hacked!
-Trick a windows user into getting hacked 
+Trick a windows user into thinking they got hacked 
 
 ## Instructions:
 
